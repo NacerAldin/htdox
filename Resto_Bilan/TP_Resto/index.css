@@ -1,0 +1,120 @@
+body{
+    background-color: cadetblue;
+}
+header{
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: white;
+    border: tomato 2px solid ;
+}
+header img{
+    height: 100px;
+    width: 100px;
+    border:2px solid red  ;
+
+    
+}
+#contneur{
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: white;
+    border: tomato 2px solid ;
+}
+h1{
+    font-style: italic;
+    font-size: 40px;
+    border: tomato 2px solid ;
+    height: 100px;
+    width: 100px;
+
+}
+nav{
+    
+    
+    border: tomato 2px solid ;
+    
+}
+ul{
+list-style: none;
+display: flex;
+
+height: 100px;
+width: 100px;
+
+}
+li{
+    margin-right: 20px;
+    text-align: center;
+    
+}
+
+section#OURSTORY{
+    display: flex;
+}
+#OURSTORY .ory{
+    text-align: center;
+    color: chartreuse;
+
+}
+#OURSTORY img{
+height: 400px;
+width: 650px;
+
+}
+
+
+
+section#FARE{
+    display:flex ;
+
+}
+.fa{
+    display: flex;
+    
+    align-items: center;
+    text-align: center;
+}
+
+#FARE .graines{
+    width: 80px;
+    height: 80px;
+}
+
+
+
+
+section#DRINK{
+    display: flex;
+}
+#DRINK div{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+#DRINK .GRAINES{
+height: 80px;
+width: 80px;
+}
+
+#DRINK .MOULE{
+    height: 500px;
+    width: 700px;
+    }
+    
+    
+    
+footer{
+        margin-left: 25%;
+        margin-right: 25%;
+        background-color: white;
+        border: tomato 2px solid ;
+        display: flex;
+        flex-direction: column;
+        
+    }
+
+
+
+
+
+

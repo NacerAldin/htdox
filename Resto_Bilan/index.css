@@ -1,0 +1,10 @@
+header{
+    position: absolute;
+    height: 50%;
+    right: 50%;
+    text-align: center;
+    border:crimson 5px solid;
+}
+#assiette{
+    display: flex;
+}
